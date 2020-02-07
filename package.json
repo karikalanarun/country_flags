@@ -1,0 +1,18 @@
+{
+  "name": "country_flags_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html --open"
+  },
+  "author": "Arun Karikalan",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
